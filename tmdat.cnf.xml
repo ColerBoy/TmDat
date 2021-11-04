@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+
+ <tmdat>
+ <xmlfile inputFile="KNP-173.14.33.58.dat.xml"
+ outputFile="numberName.KNP" />
+ 
+<tmfile inputFile="190829_v29854.KNP"
+ outputFile="TMI_name.KNP" />
+ 
+</tmdat>
